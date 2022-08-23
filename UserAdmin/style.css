@@ -1,0 +1,15 @@
+/* .content {
+    min-height: 867px;} */
+.content-wrapper, .right-side {
+    min-height: 100%;
+    background-color: #fff;}
+.green{
+    color: green;
+}
+
+.center{
+        text-align: center;
+}
+.red{
+    color: red;
+}
